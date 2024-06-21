@@ -9,7 +9,7 @@
 
 
 ## every time change the code:
-* pull the project
+* git pull origin main
 * git add .
 * git commit -m"commit msg"
 * git push origin "branch Name"
