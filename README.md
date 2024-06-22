@@ -2,8 +2,13 @@
 
 
 ## for the first time: 
-* git clone https://github.com/meherunnesaPushpita/DBMS-project.git
-* git checkout -b "branch name" 
+* git add .
+* git commit -m"test commit"
+* git remote add origin https://github.com/meherunnesaPushpita/DBMS-project.git
+* git checkout -b branchName
+* git push origin branchName
+
+it will authenticate the github
 
 ## make changes 
 
